@@ -1,3 +1,4 @@
+## Spring Auth2 Demo Project
 [[_social_login_first_party]]
 = Login with GitHub
 
